@@ -1,6 +1,6 @@
 # AI-ML-INTERNSHIP-Task-5-Decision-Trees-and-Random-Forests
 
-This project explores tree-based models for classification using Decision Trees and Random Forests. The example provided uses the Iris dataset.
+This project explores tree-based models for classification using Decision Trees and Random Forests. It uses the Iris dataset.
 
 ## Objective
 
